@@ -1,0 +1,10 @@
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.csprojAssemblyReference.cache
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.Form1.resources
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.Properties.Resources.resources
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.csproj.GenerateResource.cache
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.csproj.CoreCompileInputs.cache
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\bin\Debug\plants.exe.config
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\bin\Debug\plants.exe
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\bin\Debug\plants.pdb
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.exe
+H:\Desktop\inf\v semestr\interfejsy\plants\plants\plants\obj\Debug\plants.pdb
